@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -9,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mattk/OneDrive/Documents/GitHub/oMxtthew/cs50project1",
-      "program": "c:/Users/mattk/OneDrive/Documents/GitHub/oMxtthew/cs50project1/build/Debug/outDebug",
+      "cwd": "c:/Users/mattk/OneDrive/Documents/GitHub/oMxtthew",
+      "program": "c:/Users/mattk/OneDrive/Documents/GitHub/oMxtthew/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
